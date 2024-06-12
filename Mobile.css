@@ -78,6 +78,11 @@
     flex-direction: column;
 }
 
+#product-container .banner-trabalho{
+    width: auto;
+    height: auto;
+}
+
 #items {
     width: 90%;
 }
