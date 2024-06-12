@@ -1,5 +1,5 @@
 #navbar {
-    height: 180px;
+    height: 202px;
 }
 
 #navbar-container {
@@ -36,7 +36,8 @@
 
 /* Showcase */
 #showcase {
-    padding: -20px;
+    padding-top: 180px;
+    margin: auto;
     background: url(Imagens/banner-mobile8.jpg) no-repeat bottom;
     align-items: center;
 }
