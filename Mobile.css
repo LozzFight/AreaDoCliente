@@ -1,5 +1,5 @@
 #navbar {
-    height: 202px;
+    height: 180px;
 }
 
 #navbar-container {
@@ -8,6 +8,7 @@
 }
 
 #perfil {
+    height: 800px;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
@@ -39,7 +40,9 @@
     padding-top: 180px;
     margin: auto;
     background: url(Imagens/banner-mobile8.jpg) no-repeat bottom;
+    background-size: 800px;
     align-items: center;
+    
 }
 
 #showcase-container {
@@ -71,7 +74,7 @@
 
 /* Product */
 #product-container {
-    max-width: 15%;
+    max-width: 26%;
     flex-direction: column;
 }
 
