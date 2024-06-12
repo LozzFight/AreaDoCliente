@@ -36,6 +36,7 @@
 
 /* Showcase */
 #showcase {
+    padding: -20px;
     background: url(Imagens/banner-mobile8.jpg) no-repeat bottom;
     align-items: center;
 }
@@ -69,7 +70,7 @@
 
 /* Product */
 #product-container {
-    max-width: 57%;
+    max-width: 15%;
     flex-direction: column;
 }
 
@@ -78,7 +79,7 @@
 }
 
 .item {
-    flex-direction: column;
+    grid-template-columns: repeat(2, 4fr);
     align-items: center;
     text-align: center;
 }
